@@ -16,8 +16,8 @@
 ### 🔧 Tech Stack
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="Laravel" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
@@ -27,16 +27,7 @@
 
 ---
 
-### 📫 Contact Me
-
+### 📫 Contact Me  
+- 📬 Email: mahmoudelokaily3@gmail.com
 - 📍 GitHub: [MahmoudElokaily](https://github.com/MahmoudElokaily)
 - 💼 LinkedIn: [mahmoud-elokaily1](https://www.linkedin.com/in/mahmoud-elokaily1)
-
----
-
-### 📊 GitHub Stats
-
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudElokaily&show_icons=true&theme=default)
-
----
-
