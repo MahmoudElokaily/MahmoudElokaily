@@ -1,59 +1,45 @@
-# 👋 Hi there, I'm Mahmoud Al-Okaily
+<h1 align="center">Hi there 👋, I'm Mahmoud El-Okaily</h1>
 
-I'm a **Software Engineer** specialized in **Back-End Development** using **Laravel** and **Node.js**.  
-I focus on building scalable, secure, and clean web applications that deliver real value.  
-I always care about **code quality**, **readability**, and **best practices**.  
-Learning is a daily part of my journey, and I'm always excited to explore new tools and technologies.
-
----
-
-## 🛠️ Skills
-
-### 💻 Languages  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🚀 Frameworks & Libraries  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### 🧠 Concepts  
-![OOP](https://img.shields.io/badge/-OOP-007ACC?style=flat)
-![MVC](https://img.shields.io/badge/-MVC-6DB33F?style=flat)
-![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?style=flat)
-![Authentication](https://img.shields.io/badge/-Authentication-8E44AD?style=flat)
-![Authorization](https://img.shields.io/badge/-Authorization-2ECC71?style=flat)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-34495E?style=flat)
+<p align="center">
+  <b>Software Engineer</b><br>
+  Passionate about building high-quality back-end systems using Laravel or Node.js.<br>
+  I care about code quality, clean architecture, and always strive to improve.
+</p>
 
 ---
 
-## 📌 What I'm Working On  
-- Building REST APIs using Laravel and Node.js  
-- Writing clean, reusable, and scalable code  
-- Studying advanced backend patterns and architecture  
-- Always learning and improving every day
+## 🧠 About Me
+
+- 🎓 I'm a software engineer who specializes in back-end development.
+- 💻 I work mainly with **Laravel** and **Node.js**, and I always aim for scalable and clean systems.
+- 🚀 I love learning, solving problems, and building real-world projects.
+- 🧰 I value writing clean, maintainable code and applying the best practices in everything I do.
 
 ---
 
-## 📬 Contact Me  
-Feel free to connect with me:
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="86" height="86" />
+</div>
 
 ---
 
-_Thanks for visiting! ✨_
+## 📫 Contact
+
+- 📬 Email: mahmoudelokaily3@gmail.com
+- 💼 LinkedIn: [Mahmoud Elokaily](www.linkedin.com/in/mahmoud-elokaily1)
+- 🧑‍💻 GitHub: [Mahmoud Elokaily](https://github.com/MahmoudElokaily)
+
+---
+
+⭐️ From [Mahmoud Al-Okaily](https://github.com/MahmoudElokaily)
